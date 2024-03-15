@@ -1,3 +1,2 @@
-# Audios-Humanos
-### Audios modificados por voz humana
-Arquivo de Audio Com vozes masculinas para serem introduzidas nos equipamentos de monitoramento de fadiga da empresa X-itech , https://www.xitechst.com.br/. 
+# Arquivo de Atualizações
+### Repositorio para arquivos de atualização de equipamentos da empresa https://www.xitechst.com.br/
