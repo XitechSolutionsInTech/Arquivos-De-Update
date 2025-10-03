@@ -7,7 +7,8 @@ O formato **UPDATE,link** foi mantido para facilitar a cópia e uso.
 
 ## 📌 X261 Latest
 
-#### UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/JC261_V1.4.2_240419.1639_to_TOV1.5.1_240924.2002/update.zip  
+#### UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261%20Firmware/T%20Card%20Upgrade/KMC28_0_0_STD_JM_C261_V1.8.0.9_250807.1920/update.zip
+UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/JC261_V1.4.2_240419.1639_to_TOV1.5.1_240924.2002/update.zip  
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/V1.4.1.1_240330.2216_TO_V1.4.2_240419.1639/update.zip  
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/C261_V1.4.1_240311.1104_TO_V1.4.2_240419.1639/update.zip  
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/C261_V1.3.1_231115.1108_TO_V1.4.2_240419.1639/update.zip  
