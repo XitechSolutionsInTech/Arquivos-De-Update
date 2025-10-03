@@ -1,11 +1,23 @@
-# Atualizações de Versões
+# 📂 Central de Atualizações de Firmware OTA
 
-Este documento reúne os links de atualizações (firmware OTA) para diferentes modelos.  
-O formato **UPDATE,link** foi mantido para facilitar a cópia e uso.
+Este repositório contém os **links oficiais de atualização de firmware (Over-The-Air - OTA)** para diferentes modelos de dispositivos suportados pela empresa.  
+O objetivo é fornecer uma **fonte única, padronizada e confiável** para acesso rápido às versões mais recentes e anteriores de firmware.
 
 ---
 
-## 📌 X261 Latest
+## 🔍 Estrutura dos Links
+
+Todos os links seguem o padrão:
+
+UPDATE,URL_DO_ARQUIVO
+
+Esse formato foi adotado para facilitar a cópia e automação em scripts de atualização.
+
+---
+
+## 📌 Modelos Suportados
+
+# 📌 X261 Latest
 
 #### UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261%20Firmware/T%20Card%20Upgrade/KMC28_0_0_STD_JM_C261_V1.8.0.9_250807.1920/update.zip
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/JC261_V1.4.2_240419.1639_to_TOV1.5.1_240924.2002/update.zip  
@@ -16,7 +28,7 @@ UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/C261_V1.2.4_23061
 
 ---
 
-## 📌 X450pro
+# 📌 X450pro
 
 #### UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/C450Pro_V2.0.08_to_V2.1.03/update.zip  
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/C450Pro_V2.0.07-V2.0.08/update_SE.zip  
@@ -29,7 +41,7 @@ UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/C450Pro_1.6.05
 
 ---
 
-## 📌 X400D
+# 📌 X400D
 
 #### UPDATE,http://3.20.127.27/JC400/WABA/4.4.1.10/update.zip
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/C28D_OTA/DMS_V4.3.6_230210.1047_to_V4.4.1.1_230630.1431/update.zip  
@@ -63,3 +75,33 @@ UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC400%20and%20JC400D%20comb
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC400%20and%20JC400D%20combined%20version%20OTA/DMS_V4.2.11_210610.1158_TO_STD_V4.4.1.9_240422.1835/update.zip  
 
 ---
+
+## ⚠️ Avisos Importantes
+
+- Utilize sempre a versão **mais recente recomendada** pelo fabricante.  
+- A atualização incorreta pode causar falhas no dispositivo.  
+- Certifique-se de que o equipamento esteja em condições adequadas (conexão estável).  
+- Em caso de dúvidas, entre em contato com o **suporte técnico interno da empresa**.
+
+---
+
+## 📝 Histórico de Atualizações
+
+Todas as versões anteriores são mantidas neste repositório para fins de rastreabilidade e auditoria.  
+Consulte sempre a seção do dispositivo correspondente.
+
+---
+
+## 🤝 Contribuição Interna
+
+Este repositório é de uso **empresarial interno**.  
+Se necessário adicionar novas versões:
+
+1. Crie um **branch** com o nome `update/[modelo]-[versao]`.
+2. Adicione o link no formato padrão.
+3. Abra um **Pull Request** para revisão.
+
+---
+
+© [2025] - [X-Itech Soluções em Tecnologia]. Todos os direitos reservados.
+
