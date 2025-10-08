@@ -30,7 +30,7 @@ UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC261_OTA/C261_V1.2.4_23061
 
 # 📌 X450pro
 
-#### UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/C450Pro_V2.0.08_to_V2.1.03/update.zip  
+#### UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450%20Pro%20Firmware/T%20Card%20Upgrade/update_C450Pro_FullOta_V2.1.03/update_SE.zip 
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/C450Pro_V2.0.07-V2.0.08/update_SE.zip  
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/C450Pro_V1.8.17_20240624_TO_V2.0.07_240930/update_SE.zip  
 UPDATE,https://jimi-ota.oss-cn-hongkong.aliyuncs.com/JC450PRO_OTA/JC450Pro_1.8.11_20240511_TO_1.8.17_20240624/update_SE.zip  
